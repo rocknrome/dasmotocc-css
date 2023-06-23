@@ -1,3 +1,6 @@
+Simple HTML/CSS page
+Result: https://rocknrome.github.io/dasmotocc-css/
+
 # dasmotocc
 Codecademy project
 
